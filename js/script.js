@@ -7,3 +7,4 @@ const updateSlider = () => {
 updateSlider();
 
 lengthSlider.addEventListener("input", updateSlider);
+
